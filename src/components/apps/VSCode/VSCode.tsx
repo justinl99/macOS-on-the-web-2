@@ -12,7 +12,7 @@ const VSCode = ({ isBeingDragged }: VSCodeProps) => {
       <div>
         <iframe
           class={clsx(css.iframe, isBeingDragged && css.iframeDragged)}
-          src="https://github.com/hockerdiscord/macOS-on-the-web-2"
+          src="https://www.google.com"
         />
       </div>
     </section>
