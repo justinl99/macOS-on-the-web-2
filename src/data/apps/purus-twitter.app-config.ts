@@ -1,7 +1,7 @@
 import { createAppConfig } from '__/helpers/create-app-config';
 
 export const purusTwitterAppConfig = createAppConfig({
-  title: `Puru's Twitter`,
+  title: `JustinL's Twitter`,
   resizable: true,
 
   shouldOpenWindow: false,
