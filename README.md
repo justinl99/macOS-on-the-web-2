@@ -1,4 +1,4 @@
-#### macOS on the web 2
+# macOS on the web 2
 
 This open source project aims to replicate some of the macOS(Monterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
 
