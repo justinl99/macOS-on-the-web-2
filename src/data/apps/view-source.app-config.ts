@@ -5,5 +5,5 @@ export const viewSourceAppConfig = createAppConfig({
   resizable: true,
 
   shouldOpenWindow: false,
-  externalAction: () => window.open('https://github.com/puruvj/macos-web', '_blank'),
+  externalAction: () => window.open('https://github.com/hockerdiscord/macOS-on-the-web-2', '_blank'),
 });
