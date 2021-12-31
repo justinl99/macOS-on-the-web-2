@@ -4,7 +4,7 @@ This open source project aims to replicate some of the macOS(Monterey, at the ti
 
 ### Try it here: [macosontheweb2.com](https://mac-os-on-the-web-2.vercel.app/)
 
-# Why
+### Why
 
 I've always been very fascinated with macOS, and have never owned a Mac/book. So I'm making the most beautiful aspect of macOS, it's desktop, myself. For web. Inspired from [macOS in Preact](https://github.com/PuruVJ/macos-preact).
 
@@ -16,10 +16,6 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 - Styling Solution - SCSS and CSS Modules.
 
 [Roadmap](https://www.notion.so/MacOS-Web-Roadmap-274d703460564ea3bb5493b39bf8f886)
-
-# When will it be ready?
-
-![Who knows?](https://i.imgur.com/6xfbPzs.gif)
 
 # Can I contribute?
 
