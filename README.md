@@ -1,14 +1,12 @@
-> 🛑🛑 You're viewing the legacy version. macOS Web has moved over to Svelte! Check out here: [PuruVJ/macos-web](https://github.com/puruvj/macos-web) 🛑🛑
+#### macOS on the web 2
 
-# Mac OS Monterey Web
+This open source project aims to replicate some of the macOS(Monterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
 
-This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
-
-🔗🔗 [macos.now.sh](https://macos.now.sh)
+### Try it here: [macosontheweb2.com](https://mac-os-on-the-web-2.vercel.app/)
 
 # Why
 
-I've always been very fascinated with macOS, and have never owned a Mac/book. So I'm making the most beautiful aspect of macOS, it's desktop, myself. For web. Inspired from [WinXP](https://winxp.now.sh/).
+I've always been very fascinated with macOS, and have never owned a Mac/book. So I'm making the most beautiful aspect of macOS, it's desktop, myself. For web. Inspired from [macOS in Preact](https://github.com/PuruVJ/macos-preact).
 
 # Stack
 
