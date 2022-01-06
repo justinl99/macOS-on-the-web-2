@@ -1,5 +1,4 @@
-import Window from "../../components/window/Window"
-import SpinningLoader from "../../components/spinning_loader/SpinningLoader"
+import Window from "../../components/Desktop/Window/"
 import "./weather.scss"
 import TimeHelper from "./helpers/time"
 
