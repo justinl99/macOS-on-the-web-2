@@ -1,6 +1,6 @@
 import { finderAppConfig } from './finder.app-config';
 import { calculatorAppConfig } from './calculator.app-config';
-import { weatherAppConfig } from './weather.app-config';
+import { weatherAppConfig } from;
 import { calendarAppConfig } from './calendar.app-config';
 import { facetimeAppConfig } from './facetime.app-config';
 import { launchpadAppConfig } from './launchpad.app-config';
