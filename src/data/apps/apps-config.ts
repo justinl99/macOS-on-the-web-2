@@ -1,6 +1,5 @@
 import { finderAppConfig } from './finder.app-config';
 import { calculatorAppConfig } from './calculator.app-config';
-import { weatherAppConfig } from;
 import { calendarAppConfig } from './calendar.app-config';
 import { facetimeAppConfig } from './facetime.app-config';
 import { launchpadAppConfig } from './launchpad.app-config';
@@ -14,7 +13,6 @@ import { viewSourceAppConfig } from './view-source.app-config';
 export const appsConfig = {
   finder: finderAppConfig,
   calculator: calculatorAppConfig,
-  weather: weatherAppConfig,
   calendar: calendarAppConfig,
   safari: safariAppConfig,
   messages: messagesAppConfig,
