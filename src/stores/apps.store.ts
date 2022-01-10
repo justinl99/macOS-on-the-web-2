@@ -7,7 +7,6 @@ export type AppID = keyof typeof appsConfig;
 export const openAppsStore = atom<Record<AppID, boolean>>({
   finder: false,
   calculator: false,
-  weather: false,
   safari: false,
   messages: false,
   mail: false,
